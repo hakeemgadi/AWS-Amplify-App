@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "notesapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\myrepos\\amplify3\\amplifyapp\\amplify\\backend\\api\\notesapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 356,
+      "apiKeyExpirationDate": "2022-11-17T19:53:52.994Z",
+      "keyDescription": "demo"
+    }
+  }
+}
