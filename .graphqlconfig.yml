@@ -1,6 +1,6 @@
 projects:
   notesapp:
-    schemaPath: src/graphql/schema.json
+    schemaPath: amplify/backend/api/notesapp/build/schema.graphql
     includes:
       - src/graphql/**/*.js
     excludes:

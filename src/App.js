@@ -11,7 +11,7 @@ import { Storage } from 'aws-amplify';
 import '@aws-amplify/ui-react/styles.css';
 import { Authenticator } from '@aws-amplify/ui-react'
 
-const initialFormState = { name: '', description: '' }
+const initialFormState = { name: '', description: '', image:''}
 
 function App() {
 
